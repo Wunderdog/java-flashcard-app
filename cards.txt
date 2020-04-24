@@ -1,0 +1,185 @@
+Active cell,The selected cell in the worksheet; indicated with a dark border.
+Active sheet,The worksheet currently displayed in the workbook window.
+Active workbook,The workbook you are currently using.
+Adjacent range,A single rectangular block that includes a group of contiguous cells.
+Arithmetic operator,A symbol, such as +, - , *, or /, used in a formula to perform arithmetic calculations.
+AutoComplete,The feature that helps make entering repetitive text easier. As you enter text in a worksheet, text that begins with the same letters as a previous entry in the same column is displayed.
+Autofit,To eliminate empty space by matching the column width to the longest cell entry or the row height to the tallest cell entry.
+AutoSum,A button that quickly inserts Excel functions that summarize all the values in a column or row using a single statistic - SUM, AVERAGE, COUNT, MIN or MAX
+Cell,The intersection of a column or row in a worksheet.
+Cell range,A group of worksheet cells, which can be adjacent or nonadjacent. (Example - A2:G19)
+Cell reference,The address of a cell indicating its column and row location.
+Column heading,In Excel, the part of the worksheet that identifies each column by a different letter.
+Cut,To remove data from a cell and place it on the Office Clipboard.
+Date data,A value in a recognized date format.
+Delete,To remove a cell or cells from a worksheet, shifting the remaining worksheet cells into the space previously occupied by the deleted cell or cells; also to remove a worksheet entirely from a workbook.
+Drag and drop,To move an item (either text or a graphic) by selecting it and dragging it with the mouse.
+Editing mode,A mode in which you can edit part of an entry rather than the entire contents of a cell.
+Find,The command to locate specific letters and numbers in a workbook.
+Formula,A mathematical expression that calculates a value; all Excel formulas always begin with an equal sign (=) followed by an expression that describes the calculation to be done.
+Formula bar,The bar located above the workbook window in which the contents of a cell are displayed.
+Formula view,Excel view in which cell formulas are displayed rather than the values returned by the formulas.
+Function,A predefined formula that performs calculations using specific values called arguments.
+Landscape orientation,A type of page orientation in which the page is wider than it is tall, so that text spans the widest part of the page.
+Microsoft Excel 2007,A spreadsheet program you use to display, organize, and analyze numerical data.
+Name box,The box located on the far left of the Formula bar in which the cell reference to the active cell is also displayed.
+Nonadjacent range,Cell range that is comprised of two or more separate adjacent ranges.
+Normal view,The view that renders the workbook and worksheets for the computer screen.
+Number data,A numerical value that can be used in a mathematical calculation.
+Operator,A mathematical symbol that you use to combine values and then return a single value.
+Order of precedence,A set of predefined rules that Excel follows to unambiguously calculate a formula by determining which operator is applied first, which operator is applied second and so forth.
+Page break preview,In Excel, a view that displays the worksheet as it is divided up into pages. Anything outside of the print area is grayed out.
+Page layout view,In Excel, a view that shows how the worksheet will be laid out on the pages sent to the printer.
+Pixel,A colored dot that, when combined with other pixels, forms a picture or graphics display; stands for picture element.
+Planning analysis sheet,A worksheet that includes questions to help you define the purpose and objective of a workbook.
+Point,The unit used to measure the size of the characters in a font.
+Portrait orientation,A type of page orientation in which the page is taller than it is wide (like a typical business letter.)
+Range,A group of worksheet cells, which can be adjacent or nonadjacent. (AKA a cell range)
+Range reference,Identification of a cell range using the upper-left and lower-right corners of the rectangular selection of cells.
+Replace,The command to overwrite letters and numbers in a workbook with another entry.
+Row heading,In Excel, the part of a worksheet that identifies each row by a different number.
+Scale (n),The range of values that spans along an axis.
+Scale (v),To change the size of a graphic to make it fit into a document.
+Sheet tab,The area at the bottom of a worksheet that identifies the worksheet; clicking a sheet tab makes the worksheet active.
+Spelling checker,A feature that check the words in a document against the program's built-in dictionary and helps you avoid typographical errors.
+Spreadsheet,A tool used in business for budgeting, inventory management, and decision making fir analyzing and reporting information.
+Text data,A combination of letter, numbers and some symbols.
+Text string,Two or more text characters.
+Time data,A value in a recognized time format.
+Truncate,To cut off, or hide, the part of an entry that does not fit in a cell.
+What-if analysis,An approach using an electronic spreadsheet in which you change one or more of the values in the worksheet and then examine the recalculated values to determine the effect of the change.
+Workbook,The file in which Excel stores an electronic spreadsheet.
+Workbook window,Window in which a workbook is displayed; also called worksheet window.
+Worksheet,Each workbook is made up of individual worksheets, or sheets, containing formulas, functions, values, text, and graphics.
+Accent,A variation on an Excel theme color.
+Automatic color,A color option that uses the Windows default text and background color values.
+Banded rows,In an Excel table, rows of alternating colors that make data easier to read.
+Border,A line that prints along the side of a table cell or around the outside of selected text.
+Conditional format,A setting that applies formatting only when a cell's value meets a specified condition.
+Custom color,A color you specify as a mixture of red, blue, and green color values, which makes available 16.7 million custom colors - more colors than the human eye can distinguish.
+Data bar,A horizontal bar added to the background of a cell whose length reflects the cell's value.
+Excel table,A range of data you can treat as a distinct object in a worksheet.
+Font,A set of characters that uses the same typeface, style, and size.
+Font size,Determined by point size, which is a unit of measurement equal approximately to 1/72 of an inch.
+Font style,Various ways that fonts can be displayed, such as regular, italic, bold, or bold italic; a special attribute applied to the characters of a font.
+Footer,Text that appears at the bottom of every page in a document or at the bottom of every slide in a presentation.
+Format painter,A button on the Ribbon that, when selected, copies a format from one cell range to another.
+Formatting,To change the appearance, not the data, of your workbook.
+General number format,Default number format that automatically displays number, for the most part, the same way you enter them.
+Header,Text that appears at the top of every page in a document or every slide in a presentation.
+Legend,Used to identify the format of the data marker used for each series in a chart. Used if the chart contains more than one data series.
+Live preview,An Office feature that shows the results you would achieve in your file, such as the effects of formatting options on a document's appearance, if you click the option to which you are pointing.
+Manual page break,A page break that you insert anywhere on a page.
+Margin,The space between the page content and the edges of the page.
+Merge,To combine the main document with a data source.
+Mini toolbar,A tool bar that appears next to the pointer whenever you select text and contains buttons for the most commonly used formatting commands, such as font, font size, styles, color, alignment, and indents that may appear in different groups or tabs on the Ribbon.
+Non-theme font,In Excel, a font that can be used no matter what theme the workbook has.
+Page break,Location in a worksheet that determines where a new page begins.
+Points,The unit used to measure the size of the characters in a font.
+Print area,Selected portion of a worksheet to be printed.
+Print title,In Excel, information that prints on each page.
+Sans serif font,A font that does not have the small horizontal lines (called serifs) at the tops and bottoms of letters.
+Serif font,A font that includes small horizontal lines (called serifs) at the tops and bottoms of letters.
+Standard color,A color that is always available regardless of the workbook's theme.
+Style,A saved collection of formatting options - number formats, text alignment, font size and colors, borders, and background fills - that can be applied to cells in a worksheet.
+Table style,An Excel setting that applies styles to four table elements (header row, first column, last column, and totals row).
+Theme,A designed collection of formatting options that include color, graphics, and background images.
+Theme color,The 12 colors that belong to a workbook's theme.
+Theme font,A font associated with a particular design theme and used for headings and body text.
+Typeface,The specific design of a set of printed characters, including letters, numbers, punctuation marks, and symbols.
+Absolute reference,Cell reference that points to a specific cell and does not change when copied; appears with a dollar sign ($) before each column and row designation.
+Argument,Specifies the numbers, text, or cell references used by a function to calculate a value.
+AutoFill,An Excel tool that enables you to copy the contents of the selected cells by dragging the fill handle over another adjacent cell or range of cells rather than using the copy and past commands.
+Comparison operator,Symbol that indicates the relationship between two values.
+Compound interest,An amount for which the interest paid is calculated on the principal and any previous interest payments that have been added to that principal.
+Date function,A category of Excel functions that store and calculate dates as numeric values, representing the number of days since January 1, 1900.
+F4 key,Rather than retyping a formula, you can switch reference in editing mode by selecting the cell reference and pressing the F4 key.
+Fill handle,A small black square in the lower-right corner of a selected cell or cell range that you drag to copy the contents of the selected cells to adjacent cells.
+Financial function,A category of Excel functions that calculate values from loans and investments.
+IF function,A logical function that returns one value if the statement is true and returns a different value if the statement is false.
+Insert Function dialog box,Used to search for a particular function.
+Median,The middle value in data.
+Mixed reference,Cell reference that contains both relative and absolute references, for example B$4.
+Mode,The most common value in data.
+Optional argument,An argument that is not necessary for the function to calculate a value (if an optional argument is not included, Excel assumes a default value for it.)
+PMT function,The financial function to calculate the amount paid into an investment or loan during each payment period.
+Principal,The amount of money being loaned.
+Relative reference,In a formula, the address of a cell range based on the relative position of the cell that contains the formula and the cell the formula refers to. If you copy the formula, the relative reference is adjusted to reflect the new location of the cell containing the formula.
+Simple interest,The type of interest in which the interest paid is equal to a percentage of principal for each period that the money had been lent.
+Bar chart,A column chart turned on its side, so each length is based on its value.
+Category values,The group or category to which a series value belongs.
+Chart,Graph that provides a visual representation of the workbook data.
+Chart area,The entire chart and all the elements contained in the chart or graph, such as the title and legend.
+Chart sheet,A new sheet that is automatically inserted into the workbook, occupies the entire document window, and provides more space and details for the chart.
+Chart title,Term that appears above the plot area and describes the contents of the plot area and the data series.
+Column chart,A type of chart that displays values in different categories as columns; the height of each column is based on its value.
+Combination chart,A chart that combines two or more chart types in a single graph.
+Data label,Text associated with a data value.
+Data marker,The graphical representation of the values in the data series of a chart, including items such as each column in a column chart, the pie slices in the pie charts, and the points used in XY (scatter) charts.
+Data series,The Chart Wizard organizes data sources into a collection, where each data series is a range of data values that is plotted as a unit on the chart.
+Data source,Any file that contains the data you want to retrieve.
+Embedded chart,A chart that is displayed within a worksheet and one that you can place alongside the data source, giving context to the chart.
+Exploded pie chart,A pie chart with one slice moved away from the pie as if someone were taking the piece out of the pie.
+Graph,Provides a visual representation of the workbook data.
+Gridlines,A line that extends across the plot area indicating the location of tick marks on the chart's horizontal or vertical axis.
+Group,A collection of buttons for related commands on the Ribbon.
+Horizontal (category) axis,On the horizontal axis, or x-axis, are the data series' category values, or x values.
+Leader line,In a pie chart, a line that connects a data label outside of a pie slice to its corresponding label when space limitations force Excel to place a data label far from its slice.
+Legend,Used to identify the format of the data marker used for each series in a chart. Used if the chart contains more than one data series.
+Line chart,A chart that compares values from several categories with a sequential order, such as dates and times that occur at evenly spaced intervals. The values are indicated by the height of the line.
+Major tick mark,The indication of the major units of increment on the x- or y-axis.
+Minor tick mark,The indication of the minor units of increment on the x- or y-axis.
+Perspective,The illusion that some parts of the 3-D chart are farther away from you than others.
+Pie chart,A chart in the shape of a circle (like a pie) that shows data values as percentage of the whole.
+Plot area,A rectangular area containing a graphical representation of the values in the data series.
+Primary value axis,The axis in a column chart that displays the primary values associated with the heights of each column.
+Resizing handle,A square or dot on a selection box that lets you change and object's width and height.
+Secondary value axis,The axis in a column chart that displays the secondary values associated with the heights of each column.
+Selection box,A box surrounding an object that lets you move or resize the object.
+Series name,The name of the data series.
+Series values,The actual data displayed in a chart.
+Vertical (value) axis,The y-axis where, for example, data values, such as sales values, are plotted.
+XY scatter chart,A chart that shows the patterns or relationship between two or more sets of values.
+Ascending order,Sorts text alphabetically from A to Z, numbers from smallest to largest, and dates from oldest to newest.
+Category field,A field used to group the values in a PivotTable.
+Clear,To remove
+Column header,A unique label that describes the contents of the data in a column.
+Criteria filter,Conditions you specify for a filter.
+Custom list,The sequence you specify to sort data.
+Data definition table,Documentation that lists the fields to be maintained for each record and a description of the information each field will include.
+Descending order,Sorts text in reverse alphabetically from Z to A, numbers from largest to smallest, and dates from newest to oldest.
+Field,An attribute or characteristic of a person, place, or thing (such as a last name, address, city, or state); in Excel, each column represents a field.
+Field name,A unique label that describes the contents of the data in a column, also called a column header.
+Filter,The process of temporarily hiding records that do not meet the specific criteria.
+Freeze,The process of keeping rows and/or columns you select visible in the workbook window as you scroll the worksheet.
+Header row,The row of field names.
+PivotChart,A graphical representation of the data in a PivotTable in which you can interactively add, remove, filter, and refresh data fields.
+PivotTable,An interactive table that enables you to group and summarize either a range of data or an Excel table into a concise, tabular format for easier reporting and analysis.
+Primary sort field,The first sort field
+Record,A collection of related fields that are grouped together, in Excel, each row represents a record.
+Refresh,To update
+Report filter,Filters the PivotTable to display summarized data for one or more field items or all field items in the Report Filter area.
+Secondary sort field,The second sort field.
+Sort,The process of rearranging data in a certain order, such as ascending or descending.
+Sort field,A field you use to order data.
+Total row,A row at the end of an Excel table that is used to calculate summary statistics for the columns in the table.
+Value field,In a PivotTable, a field that contains summary data.
+3-D Reference,Refers to the same cell or range in multiple worksheets in the same workbook. The reference specifies not only the range of rows and columns, but also the range of worksheet names in which the cells appear. (Example: WorksheetRange!CellRange )
+Custom template,A workbook template you create that is ready to run with the formulas for all calculations included as well as all formatting.
+Default template,A template that creates the blank Book1 workbook that opens when you start Excel, The default template contains no text or formulas, but it includes all the formatting available in every new workbook
+Destination file,The workbook that receives the data when two files are linked; sometimes referred to as the dependent file.
+External reference,A reference to a cell or range in a worksheet in another workbook.
+HTML (Hypertext Markup Language),A language used to write Web pages.
+Hyperlink,A link in a file, such as a workbook, to information within that file or another file that, when clicked, switches to the file referenced by the hyperlink.
+Link,A connection between the files that allows data to be transferred from one file to the other.
+ScreenTip,Onscreen text that appears when you position the mouse pointer over certain objects, such as the objects on the taskbar or a toolbar button. ScreenTips tell you the purpose or function of the object to which you are pointing.
+Source file,The workbook that contains the data when two files are linked.
+Template,A workbook that you can open with labels, formats, and formulas already built into it from which you create new workbooks.
+Worksheet group,A collection of two or more selected worksheets in which everything you do to the active worksheet also affects the other worksheets in the group.
+Workspace,An Excel file that saves information about all of the currently opened workbooks, such as their locations, window sizes, zoom magnifications, and other settings.
+Area Chart,Compares values from different categories. Similar to a line chart except the areas under the line contain a fill color.
+Stock Chart,Shows stock market data like highs, lows, opening price and closing price.
+Surface Chart,Compares three sets of values in a 3-D chart.
+Doughnut Chart,Shows relative values of different categories to the whole. Displast multiple sets of data.
+Bubble Chart,Shows patterns between two or more sets of data. The size of the data marker is determined by the 3rd value.
+Radar Chart,Compares a collection of values through several data sets.

@@ -1,0 +1,74 @@
+Scanner Cerated
+Menu Cerated
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card
+one
+The definition of the card:
+two
+The pair ("one":"two") has been added.
+
+Input the action (add, remove, import, export, ask, exit):
+add
+The card
+1
+The definition of the card:
+2
+The pair ("1":"2") has been added.
+
+Input the action (add, remove, import, export, ask, exit):
+add
+The card
+hello
+The definition of the card:
+goodbye
+The pair ("hello":"goodbye") has been added.
+
+Input the action (add, remove, import, export, ask, exit):
+ask
+How many times to ask?
+jasdf
+Invalid number. Try again:
+
+How many times to ask?
+jasdjf
+Invalid number. Try again:
+
+How many times to ask?
+jasdjfadf
+Invalid number. Try again:
+
+How many times to ask?
+4
+Print the definition of "one":
+two
+Correct answer.
+
+Print the definition of "1":
+o
+Wrong answer. The correct one is "2".
+
+Print the definition of "hello":
+goodbye
+Correct answer.
+
+Print the definition of "one":
+two
+Correct answer.
+
+Input the action (add, remove, import, export, ask, exit):
+hardest card
+The hardest card is "1". You have 1 errors answering it.
+
+Input the action (add, remove, import, export, ask, exit):
+reset stats
+Card statistics have been reset.
+
+Input the action (add, remove, import, export, ask, exit):
+hardest card
+There are no cards with errors.
+
+Input the action (add, remove, import, export, ask, exit):
+log
+File name:
+log.txt
